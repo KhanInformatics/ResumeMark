@@ -1,4 +1,4 @@
-# **Kate Miller**
+# **Imran Khan**
 An engineering manager building and leading engineering teams at Apple Inc
 Email: **<katemiller@gmail.com>**
 Phone: **+123 456 789**
