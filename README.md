@@ -10,19 +10,19 @@ Act as an independent specialist member considering requests for access/dissemin
   - This includes providing advice to NHS Digital relating to the release of NHS Digital data and its uses
 <br><br>
 
-**Clinical Digital Place Lead** [BOB ICS](https://https://www.bucksoxonberksw.icb.nhs.uk///) _(March 2022 - Present)_ 
+**Clinical Digital Place Lead** [BOB ICS](https://www.bucksoxonberksw.icb.nhs.uk/) _(March 2022 - Present)_ 
 Provide clinical oversight and advice to Berkshire west regarding GPIT issues in primary care.
   - Support the development of clinical safety assurance for digital projects introduced across the place and in alignment with the system.
   - Provide clinical advice to new projects and adoption of digital solutions in primary care across the place and the system.
   - Look at budgets and effetive use of GPIT futures funding.
 <br><br>
 
-
-
-- To provide a co-ordinated joint approach to general practice stakeholder representation in information management and communications technology projects within the NHS.
+**RCGP Health Informatics Group Deputy Chair and Joint GPIT Committee Deputy chair** [RCGP](https://www.rcgp.org.uk/) _(Jan 2022 - Present)_ 
+As deputy Chair of the Health informatics group I represent the RCGP various aspects of Health Informatics related to:
+- Providing a co-ordinated joint approach to general practice stakeholder representation in information management and communications technology projects within the NHS (jointly with the BMA).
 - To consider the development of information management and technology in NHS general practice across the UK
 - To consider training and change management issues in the provision of quality information within primary care and its interface with the rest of the health service
-• To offer support and guidance to general practice on IM&T , Information Gevernance, data proteciion and general clinical informatics 
+- To offer support and guidance to general practice on IM&T , Information Gevernance, data proteciion and general clinical informatics 
 
 
 **Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
