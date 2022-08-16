@@ -1,5 +1,5 @@
 ## Dr Imran Khan
-Clinical Informatics Lead and NHS GP
+Clinical Informatics Lead and NHS GP <br>
 On GP Speciast Register <br>
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
 
