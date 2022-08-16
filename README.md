@@ -6,19 +6,24 @@ On GP Speciast Register <br>
 ##  Experience
 
 **IGARD Specialist Member** [NHS Digital](https://digital.nhs.uk//) _(Dec 2020 - Present)_ 
-No-code platform that enables professionals to build interactive applications.
-  - Implementing features that improve the UI and accessibility of the integrations platform
-  - Extending a company-wide design system
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
+Act as an independent specialist member considering requests for access/dissemination of NHS data and also advising on other areas of data protection and assurance for release of data by NHS Digital.
+  - This includes providing advice to NHS Digital relating to the release of NHS Digital data and its uses
 <br><br>
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
+**Clinical Digital Place Lead** [BOB ICS](https://https://www.bucksoxonberksw.icb.nhs.uk///) _(March 2022 - Present)_ 
+Provide clinical oversight and advice to Berkshire west regarding GPIT issues in primary care.
+  - Support the development of clinical safety assurance for digital projects introduced across the place and in alignment with the system.
+  - Provide clinical advice to new projects and adoption of digital solutions in primary care across the place and the system.
+  - Look at budgets and effetive use of GPIT futures funding.
 <br><br>
+
+
+
+- To provide a co-ordinated joint approach to general practice stakeholder representation in information management and communications technology projects within the NHS.
+- To consider the development of information management and technology in NHS general practice across the UK
+- To consider training and change management issues in the provision of quality information within primary care and its interface with the rest of the health service
+• To offer support and guidance to general practice on IM&T , Information Gevernance, data proteciion and general clinical informatics 
+
 
 **Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
 Early-stage startup focused on automated API testing and NLP.
