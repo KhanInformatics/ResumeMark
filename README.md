@@ -18,7 +18,9 @@ Provide clinical oversight and advice to Berkshire west regarding GPIT issues in
 <br><br>
 
 
-<img src="docs/assets/RCGPLogo.png"> **RCGP Health Informatics Group Deputy Chair and Joint GPIT Committee Deputy chair** [RCGP](https://www.rcgp.org.uk/) _(Jan 2022 - Present)_ 
+<img src=docs/assets/logo-rcgp.png alt="drawing" style="width:30px;"/>
+
+ Health Informatics Group Deputy Chair and Joint GPIT Committee Deputy chair** [RCGP](https://www.rcgp.org.uk/) _(Jan 2022 - Present)_ <br>
 As deputy Chair of the Health informatics group I represent the RCGP various aspects of Health Informatics related to:
 - Providing a co-ordinated joint approach to general practice stakeholder representation in information management and communications technology projects within the NHS (jointly with the BMA).
 - To consider the development of information management and technology in NHS general practice across the UK
