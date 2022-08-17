@@ -5,9 +5,8 @@ On GP Speciast Register <br>
 
 ##  Experience
 <img src="docs/assets/NHSDigitalLogo.jpg" width="40"><br>
-**IGARD Specialist Member** [NHS Digital](https://digital.nhs.uk//) _(Dec 2020 - Present)_ 
+**IGARD Specialist Member** [NHS Digital](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/independent-group-advising-on-the-release-of-data/) _(Dec 2020 - Present)_ 
 Act as an independent specialist member considering requests for access/dissemination of NHS data and also advising on other areas of data protection and assurance for release of data by NHS Digital.
-  - This includes providing advice to NHS Digital relating to the release of NHS Digital data and its uses
 <br><br>
 
 <img src="docs/assets/BOBLOGO.png" width="140"><br>
