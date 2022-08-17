@@ -4,12 +4,13 @@ On GP Speciast Register <br>
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
 
 ##  Experience
-
+<img src="docs/assets/NHSDigitalLogo.jpg" width="40"><br>
 **IGARD Specialist Member** [NHS Digital](https://digital.nhs.uk//) _(Dec 2020 - Present)_ 
 Act as an independent specialist member considering requests for access/dissemination of NHS data and also advising on other areas of data protection and assurance for release of data by NHS Digital.
   - This includes providing advice to NHS Digital relating to the release of NHS Digital data and its uses
 <br><br>
 
+<img src="docs/assets/BOBLOGO.png" width="140"><br>
 **Clinical Digital Place Lead** [BOB ICS](https://www.bucksoxonberksw.icb.nhs.uk/) _(March 2022 - Present)_ 
 Provide clinical oversight and advice to Berkshire west regarding GPIT issues in primary care.
   - Support the development of clinical safety assurance for digital projects introduced across the place and in alignment with the system.
