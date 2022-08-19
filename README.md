@@ -31,6 +31,8 @@ As deputy Chair of the Health informatics group I represent the RCGP various asp
 <img src="docs/assets/General_Medical_Council_logo.svg" width="56"><br>
 **GMC Associate** [](https://www.gmc-uk.org/) _(Jan 2020 - Present)_ <br>
 Professional and Linguistic Assessments Board examiner.
+- Responsible for examining a station on the PLAB exam circuit.
+- Occasionally act as invigilator for the exam accross multiple ciruits assisting the chief examiner.
 
 ## 👩🏼‍🎓 Education
 
