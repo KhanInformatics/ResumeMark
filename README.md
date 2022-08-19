@@ -3,6 +3,11 @@ Clinical Informatics Lead and NHS GP <br>
 On GP Speciast Register <br>
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
 
+I am General Practitioner with a demonstrated history of working in the hospital & health care industry. Skilled in Health Informatics, Systems engineering, Healthcare Information Technology (HIT) and clinical informatiocs. 
+<br>
+I also have a working and academic background in computer systems with PhD in Computer Science.
+            
+
 ##  Experience
 <img src="docs/assets/NHSDigitalLogo.jpg" width="40"><br>
 **IGARD Specialist Member** [NHS Digital](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/independent-group-advising-on-the-release-of-data/) _(Dec 2020 - Present)_ 
