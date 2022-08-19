@@ -29,7 +29,7 @@ As deputy Chair of the Health informatics group I represent the RCGP various asp
 
 
 <img src="docs/assets/General_Medical_Council_logo.svg" width="56"><br>
-**Professional and Linguistic Assessments Board** [](https://www.gmc-uk.org/) _(Jan 2020 - Present)_ <br>
+**GMC Associate** [](https://www.gmc-uk.org/) _(Jan 2020 - Present)_ <br>
 Professional and Linguistic Assessments Board examiner.
 
 ## 👩🏼‍🎓 Education
