@@ -39,7 +39,7 @@ As deputy Chair of the Health informatics group I represent the RCGP on various 
 Professional and Linguistic Assessments Board examiner.
 - Responsible for examining a station on the PLAB exam circuit.
 - Occasionally act as invigilator for the exam accross multiple ciruits assisting the chief examiner.
-
+<br><br>
 
 **GP Locum and OOH GP ** [](https://www.gmc-uk.org/) _(Jan 2020 - Present)_ <br>
 Professional and Linguistic Assessments Board examiner.
