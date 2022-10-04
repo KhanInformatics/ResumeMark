@@ -1,6 +1,6 @@
 ## Dr Imran Khan
 Clinical Informatics Lead and NHS GP <br>
-On GP Speciast Register <br>
+On [GMC GP Speciast Register](https://www.gmc-uk.org/doctors/7278705)  <br>
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
 
 I am General Practitioner with a demonstrated history of working in the hospital & health care industry. Skilled in Health Informatics, Systems engineering, Healthcare Information Technology (HIT) and clinical informatiocs. 
@@ -41,20 +41,27 @@ Professional and Linguistic Assessments Board examiner.
 - Occasionally act as invigilator for the exam accross multiple ciruits assisting the chief examiner.
 <br><br>
 
-**GP Locum and OOH GP ** [](https://www.gmc-uk.org/) _(Jan 2020 - Present)_ <br>
-Professional and Linguistic Assessments Board examiner.
+**GP Locum and Out Of Hours GP** [](https://www.gmc-uk.org/) _(Aug 2017 - Present)_ <br>
+
 - Locum GP services for various practices across, Berkshire, Hampshire and Oxfordshire.
 - Sessional Out of hours GP for Berkshire Healthcare Westcall https://www.berkshirehealthcare.nhs.uk/our-services/other-services/westcall/ p 
 
 
 
 ## 👩🏼‍🎓 Education
+**PhD** PhD Computer Science  -Netted Radar Modelling, Design and Optimisation <br>
+[Cardiff University ](https://www.cardiff.ac.uk/computer-science) - Department of Computer Scienee , Cardiff UK _(2000 - 2004)_
+
+**BEng** Computer Systems Engineering - 1st Class (Hons)<br>
+[Cardiff University ](https://www.cardiff.ac.uk/computer-science) - Computer Scienee and Dept Electronic Engineering, Cardiff UK _(1996 - 2000)_
+
+
 
 **12-week intensive coding course** focused on full-stack JavaScript<br>
 [SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
+**BEng** Computer Systems Engineering - 1st Class (Hons)<br>
+[Cardiff University ](https://www.cardiff.ac.uk/computer-science) - Computer Scienee and Dept Electronic Engineering, Cardiff UK _(1996 - 2000)_
 
 **Washington Semester Program** for Journalism and New Media<br>
 [American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
