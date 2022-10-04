@@ -5,7 +5,9 @@ On [GMC GP Speciast Register](https://www.gmc-uk.org/doctors/7278705)  <br>
 
 I am General Practitioner with a demonstrated history of working in the health care industry. Skilled in clinical Informatics, Systems engineering, Healthcare Information Technology (HIT) and clinical safety. 
 <br>
+<br>
 I am qualified clinical safety officer and currently can provide clinical safety expertise if required.  I have experience of both the DCB0129, DCB0160 and other clinical safety and risk management processes.
+<br>
 <br>
 I also have a working and academic background in computer systems with PhD in Computer Science.  
 <br>
