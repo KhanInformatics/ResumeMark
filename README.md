@@ -14,7 +14,7 @@ I also have a working and academic background in computer systems with PhD in Co
 Act as an independent specialist member considering requests for access/dissemination of NHS data and also advising on other areas of data protection and assurance for release of data by NHS Digital.
 <br><br>
 
-<img src="docs/assets/BOBLOGO.png" width="140"><br>
+<img src="https://khaninformatics.github.io/ResumeMark/docs/assets/BOBLOGO.png" width="140"><br>
 **Clinical Digital Place Lead** [BOB ICS](https://www.bucksoxonberksw.icb.nhs.uk/) _(March 2022 - Present)_ 
 Provide clinical oversight and advice to Berkshire west regarding GPIT issues in primary care.
 - Support the development of clinical safety assurance for digital projects introduced across the place and in alignment with the system.
@@ -23,21 +23,30 @@ Provide clinical oversight and advice to Berkshire west regarding GPIT issues in
 <br><br>
 
 
-<img src="docs/assets/logo-rcgp.png" width="40"><br>
+<img src="https://khaninformatics.github.io/ResumeMark/docs/assets/logo-rcgp.png" width="40"><br>
 **Health Informatics Group Deputy Chair and Joint GPIT Committee Deputy chair** [RCGP](https://www.rcgp.org.uk/) _(Jan 2022 - Present)_ <br>
-As deputy Chair of the Health informatics group I represent the RCGP various aspects of Health Informatics related to:
+As deputy Chair of the Health informatics group I represent the RCGP on various aspects of Health Informatics related to:
 - Providing a co-ordinated joint approach to general practice stakeholder representation in information management and communications technology projects within the NHS (jointly with the BMA).
 - To consider the development of information management and technology in NHS general practice across the UK
 - To consider training and change management issues in the provision of quality information within primary care and its interface with the rest of the health service
 - To offer support and guidance to general practice on IM&T , Information Gevernance, data proteciion and general clinical informatics 
+<br><br>
 
 
 
-<img src="docs/assets/General_Medical_Council_logo.svg" width="56"><br>
+<img src="https://khaninformatics.github.io/ResumeMark/docs/assets/General_Medical_Council_logo.svg" width="56"><br>
 **GMC Associate** [](https://www.gmc-uk.org/) _(Jan 2020 - Present)_ <br>
 Professional and Linguistic Assessments Board examiner.
 - Responsible for examining a station on the PLAB exam circuit.
 - Occasionally act as invigilator for the exam accross multiple ciruits assisting the chief examiner.
+
+
+**GP Locum and OOH GP ** [](https://www.gmc-uk.org/) _(Jan 2020 - Present)_ <br>
+Professional and Linguistic Assessments Board examiner.
+- Locum GP services for various practices across, Berkshire, Hampshire and Oxfordshire.
+- Sessional Out of hours GP for Berkshire Healthcare Westcall https://www.berkshirehealthcare.nhs.uk/our-services/other-services/westcall/ p 
+
+
 
 ## 👩🏼‍🎓 Education
 
