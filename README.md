@@ -59,7 +59,7 @@ Professional and Linguistic Assessments Board examiner.
 **PhD** PhD Computer Science  - 
 <br>
 Netted Radar Modelling, Design and Optimisation <br>
-[Cardiff University ](https://www.cardiff.ac.uk/computer-science) - Department of Computer Scienee , Cardiff _(2004)_
+[Cardiff University ](https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs) - Department of Computer Scienee , Cardiff _(2004)_
 
 **BEng** Computer Systems Engineering - 1st Class (Hons)<br>
 [Cardiff University ](https://www.cardiff.ac.uk/computer-science) - Computer Scienee and Dept Electronic Engineering, Cardiff UK _(2000)_
