@@ -41,19 +41,28 @@ Professional and Linguistic Assessments Board examiner.
 - Occasionally act as invigilator for the exam accross multiple ciruits assisting the chief examiner.
 <br><br>
 
-**GP Locum and Out Of Hours GP** [](https://www.gmc-uk.org/) _(Aug 2017 - Present)_ <br>
+**GP Locum and Out Of Hours GP** _(Aug 2017 - Present)_ <br>
 
 - Locum GP services for various practices across, Berkshire, Hampshire and Oxfordshire.
-- Sessional Out of hours GP for Berkshire Healthcare Westcall https://www.berkshirehealthcare.nhs.uk/our-services/other-services/westcall/ p 
+- Sessional Out of hours GP for Berkshire Healthcare [Westcall](https://www.berkshirehealthcare.nhs.uk/our-services/other-services/westcall/)  
 
 
 
 ## 👩🏼‍🎓 Education
-**PhD** PhD Computer Science  -Netted Radar Modelling, Design and Optimisation <br>
-[Cardiff University ](https://www.cardiff.ac.uk/computer-science) - Department of Computer Scienee , Cardiff UK _(2000 - 2004)_
+
+**MBBS** Medicine<br>
+[King’s College London Guy’s King’s and St Thomas’ School of Medicine](https://www.cardiff.ac.uk/computer-science) - London  _(2012)_
+
+
+
+
+**PhD** PhD Computer Science  - 
+<br>
+Netted Radar Modelling, Design and Optimisation <br>
+[Cardiff University ](https://www.cardiff.ac.uk/computer-science) - Department of Computer Scienee , Cardiff _(2004)_
 
 **BEng** Computer Systems Engineering - 1st Class (Hons)<br>
-[Cardiff University ](https://www.cardiff.ac.uk/computer-science) - Computer Scienee and Dept Electronic Engineering, Cardiff UK _(1996 - 2000)_
+[Cardiff University ](https://www.cardiff.ac.uk/computer-science) - Computer Scienee and Dept Electronic Engineering, Cardiff UK _(2000)_
 
 
 
