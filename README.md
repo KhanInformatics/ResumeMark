@@ -1,7 +1,7 @@
 ## Dr Imran Khan
 Clinical Informatics Lead and NHS GP <br>
 On [GMC GP Speciast Register](https://www.gmc-uk.org/doctors/7278705)  <br>
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:hello@workwithcarolyn.com) / [Website](https://khaninformatics.github.io/ResumeMark/) / [LinkedIn](https://www.linkedin.com/in/imran-khan-6342bb167/) / [GitHub](https://github.com/KhanInformatics/) 
 
 I am General Practitioner with a demonstrated history of working in the hospital & health care industry. Skilled in Health Informatics, Systems engineering, Healthcare Information Technology (HIT) and clinical informatiocs. 
 <br>
@@ -65,15 +65,3 @@ Netted Radar Modelling, Design and Optimisation <br>
 [Cardiff University ](https://www.cardiff.ac.uk/computer-science) - Computer Scienee and Dept Electronic Engineering, Cardiff UK _(2000)_
 
 
-
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
-
-**BEng** Computer Systems Engineering - 1st Class (Hons)<br>
-[Cardiff University ](https://www.cardiff.ac.uk/computer-science) - Computer Scienee and Dept Electronic Engineering, Cardiff UK _(1996 - 2000)_
-
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
