@@ -3,9 +3,13 @@ Clinical Informatics Lead and NHS GP <br>
 On [GMC GP Speciast Register](https://www.gmc-uk.org/doctors/7278705)  <br>
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://khaninformatics.github.io/ResumeMark/) / [LinkedIn](https://www.linkedin.com/in/imran-khan-6342bb167/) / [GitHub](https://github.com/KhanInformatics/) 
 
-I am General Practitioner with a demonstrated history of working in the hospital & health care industry. Skilled in Health Informatics, Systems engineering, Healthcare Information Technology (HIT) and clinical informatiocs. 
+I am General Practitioner with a demonstrated history of working in the health care industry. Skilled in clinical Informatics, Systems engineering, Healthcare Information Technology (HIT) and clinical safety. 
 <br>
-I also have a working and academic background in computer systems with PhD in Computer Science.
+I am qualified clinical safety officer and currently can provide clinical safety expertise if required.  I have experience of both the DCB0129, DCB0160 and other clinical safety and risk management processes.
+<br>
+I also have a working and academic background in computer systems with PhD in Computer Science.  
+<br>
+
             
 
 ##  Experience
