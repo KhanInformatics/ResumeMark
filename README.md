@@ -9,7 +9,7 @@ I also have a working and academic background in computer systems with PhD in Co
             
 
 ##  Experience
-<img src="docs/assets/NHSDigitalLogo.jpg" width="40"><br>
+<img src="https://khaninformatics.github.io/ResumeMark/docs/assets/NHSDigitalLogo.jpg" width="40"><br>
 **IGARD Specialist Member** [NHS Digital](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/independent-group-advising-on-the-release-of-data/) _(Dec 2020 - Present)_ 
 Act as an independent specialist member considering requests for access/dissemination of NHS data and also advising on other areas of data protection and assurance for release of data by NHS Digital.
 <br><br>
@@ -19,7 +19,7 @@ Act as an independent specialist member considering requests for access/dissemin
 Provide clinical oversight and advice to Berkshire west regarding GPIT issues in primary care.
 - Support the development of clinical safety assurance for digital projects introduced across the place and in alignment with the system.
 - Provide clinical advice to new projects and adoption of digital solutions in primary care across the place and the system.
-- Look at budgets and effetive use of GPIT futures funding.
+- Look at budgets and effetive use of GPIT funding.
 <br><br>
 
 
