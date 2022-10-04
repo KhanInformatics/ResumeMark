@@ -1,6 +1,6 @@
 ## Dr Imran Khan
-Clinical Informatics Lead and NHS GP <br>
-On [GMC GP Speciast Register](https://www.gmc-uk.org/doctors/7278705)  <br>
+NHS GP, Clinical Informatics Lead and Clinical Safety Officer <br>
+On [GMC GP Specialist Register](https://www.gmc-uk.org/doctors/7278705)  <br>
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://khaninformatics.github.io/ResumeMark/) / [LinkedIn](https://www.linkedin.com/in/imran-khan-6342bb167/) / [GitHub](https://github.com/KhanInformatics/) 
 
 I am General Practitioner with a demonstrated history of working in the health care industry. Skilled in clinical Informatics, Systems engineering, Healthcare Information Technology (HIT) and clinical safety. 
@@ -69,5 +69,14 @@ Netted Radar Modelling, Design and Optimisation <br>
 
 **BEng** Computer Systems Engineering - 1st Class (Hons)<br>
 [Cardiff University ](https://www.cardiff.ac.uk/computer-science) - Computer Scienee and Dept Electronic Engineering, Cardiff UK _(2000)_
+
+## 📌Technical skills
+
+**Medical Information Systems**
+EMIS Web, Vision.
+
+**Productivity Tools and Other Computing experience** Office 365 (Word, Excel, PowerPoint, Outlook)
+
+**Multiple programming languages** (C#, C++, T-SQL, PL/SQL, VB. Latex, python, html), databases including Microsoft SQL server.
 
 
