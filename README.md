@@ -1,12 +1,12 @@
 ## Dr Imran Khan
 NHS GP, Clinical Informatics Lead and Clinical Safety Officer <br>
 On [GMC GP Specialist Register](https://www.gmc-uk.org/doctors/7278705)  <br>
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://khaninformatics.github.io/ResumeMark/) / [LinkedIn](https://www.linkedin.com/in/imran-khan-6342bb167/) / [GitHub](https://github.com/KhanInformatics/) 
+[Email](mailto:mik786@gmail.com) / [Website](https://khaninformatics.github.io/ResumeMark/) / [LinkedIn](https://www.linkedin.com/in/imran-khan-6342bb167/) / [GitHub](https://github.com/KhanInformatics/) 
 
-I am General Practitioner with a demonstrated history of working in the health care industry. Skilled in clinical Informatics, Systems engineering, Healthcare Information Technology (HIT) and clinical safety. 
+I am General Practitioner with a demonstrated history of working in the health care industry. Skilled in clinical Informatics, systems engineering, primary care healthcare Information Technology (HIT) and clinical safety. 
 <br>
 <br>
-I am qualified clinical safety officer and currently can provide clinical safety expertise if required.  I have experience of both the DCB0129, DCB0160 and other clinical safety and risk management processes.
+I am qualified clinical safety officer and have a specialist interest in clinical safety and information governance.  I have experience of both the DCB0129, DCB0160 and other clinical safety and risk management processes. I am currently a clinical safety officer within the Berkshire, Oxfordshire and Buckinghamshire ICB.
 <br>
 <br>
 I also have a working and academic background in computer systems with PhD in Computer Science.  
@@ -22,12 +22,11 @@ Act as an independent specialist member considering requests for access/dissemin
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/BOBLOGO.png" width="140"><br>
 **Clinical Digital Place Lead** [BOB ICS](https://www.bucksoxonberksw.icb.nhs.uk/) _(March 2022 - Present)_ 
-Provide clinical oversight and advice to Berkshire west regarding GPIT issues in primary care.
+Provide clinical safety, oversight and advice to Berkshire west and wider ICB regarding GPIT issues in primary care.
 - Support the development of clinical safety assurance for digital projects introduced across the place and in alignment with the system.
 - Provide clinical advice to new projects and adoption of digital solutions in primary care across the place and the system.
-- Look at budgets and effetive use of GPIT funding.
+- Look at budgets and effective use of GPIT funding.
 <br><br>
-
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/logo-rcgp.png" width="40"><br>
 **Health Informatics Group Deputy Chair and Joint GPIT Committee Deputy chair** [RCGP](https://www.rcgp.org.uk/) _(Jan 2022 - Present)_ <br>
