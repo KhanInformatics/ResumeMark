@@ -57,7 +57,6 @@ Professional and Linguistic Assessments Board examiner.
 **Software engineer and Enterprise Architect** [Defence Science and Technology Laboratory](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory) _(2020 - 2007)_ <br> 
 
 - Enterprise Architect for complex Electronic Surveillance systems.
-
 - Also Involved with a NATO projects focusing on NEC and information dissemination. 
 - Role included architectural and software solution development. 
 - (Due to the sensitive nature of projects, details of projects cannot be disclosed ) 
@@ -74,10 +73,10 @@ Professional and Linguistic Assessments Board examiner.
 **PhD** PhD Computer Science  - 
 <br>
 Netted Radar Modelling, Design and Optimisation <br>
-[Cardiff University ](https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs) - Department of Computer Scienee , Cardiff _(2004)_
+[Cardiff University ](https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs) - Department of Computer Science , Cardiff _(2004)_. In association with DSTL (formerly Defence Evaluation and Research Agency) Further details available on request 
 
 **BEng** Computer Systems Engineering - 1st Class (Hons)<br>
-[Cardiff University ](https://www.cardiff.ac.uk/computer-science) - Computer Scienee and Dept Electronic Engineering, Cardiff UK _(2000)_
+[Cardiff University ](https://www.cardiff.ac.uk/computer-science) - Computer Science and Dept Electronic Engineering, Cardiff UK _(2000)_
 
 ## 📌Technical skills
 
