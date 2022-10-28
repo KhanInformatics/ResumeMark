@@ -54,7 +54,7 @@ Professional and Linguistic Assessments Board examiner.
 <br>
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/gov.uk_Logo.png" width="56"><br>
-**Software engineer and Enterprise Architect** [Defence Science and Technology Laboratory](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory) _(Jan 2020 - 2007)_ <br> 
+**Software engineer and Enterprise Architect** [Defence Science and Technology Laboratory](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory) _(2020 - 2007)_ <br> 
 
 - Enterprise Architect for complex Electronic Surveillance systems.
 
