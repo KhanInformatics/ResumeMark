@@ -51,6 +51,7 @@ Professional and Linguistic Assessments Board examiner.
 - Locum GP services for various practices across, Berkshire, Hampshire and Oxfordshire.
 - Sessional Out of hours GP for Berkshire Healthcare [Westcall](https://www.berkshirehealthcare.nhs.uk/our-services/other-services/westcall/) 
 <br> 
+<br>
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/gov.uk_Logo.png" width="56"><br>
 **Software engineer and Enterprise Architect** [Defence Science and Technology Laboratory](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory) _(Jan 2020 - 2007)_ <br> 
