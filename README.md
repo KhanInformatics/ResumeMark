@@ -1,7 +1,7 @@
 ## Dr Imran Khan
 NHS GP, Clinical Informatics Lead and Clinical Safety Officer <br>
-On [GMC GP Specialist Register](https://www.gmc-uk.org/doctors/7278705)  <br>
-[Email](mailto:mik786@gmail.com) / [Website](https://khaninformatics.github.io/ResumeMark/) / [LinkedIn](https://www.linkedin.com/in/imran-khan-6342bb167/) / [GitHub](https://github.com/KhanInformatics/) 
+On [GMC GP Register](https://www.gmc-uk.org/doctors/7278705)  <br>
+[Email](mailto:mik786@outlook.com) / [Website](https://khaninformatics.github.io/ResumeMark/) / [LinkedIn](https://www.linkedin.com/in/imran-khan-6342bb167/) / [GitHub](https://github.com/KhanInformatics/) 
 
 I am General Practitioner with a demonstrated history of working in the health care industry. Skilled in clinical Informatics, systems engineering, primary care healthcare Information Technology (HIT) and clinical safety. 
 <br>
@@ -15,12 +15,7 @@ I also have a working and academic background in computer systems with PhD in Co
             
 
 ##  Experience
-**GP Locum and Out Of Hours GP** _(Aug 2017 - Present)_ <br>
 
-- Locum GP services for various practices across, Berkshire, Hampshire and Oxfordshire.
-- Sessional Out of hours GP for Berkshire Healthcare [Westcall](https://www.berkshirehealthcare.nhs.uk/our-services/other-services/westcall/) 
-<br> 
-<br>
 
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/NHSDigitalLogo.jpg" width="40"><br>
@@ -53,6 +48,13 @@ Professional and Linguistic Assessments Board examiner.
 - Responsible for examining a station on the PLAB exam circuit.
 - Occasionally act as invigilator for the exam accross multiple ciruits assisting the chief examiner.
 <br><br>
+
+**GP Locum and Out Of Hours GP** _(Aug 2017 - Present)_ <br>
+
+- Locum GP services for various practices across, Berkshire, Hampshire and Oxfordshire.
+- Sessional Out of hours GP for Berkshire Healthcare [Westcall](https://www.berkshirehealthcare.nhs.uk/our-services/other-services/westcall/) 
+<br> 
+<br>
 
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/gov.uk_Logo.png" width="56"><br>
