@@ -19,7 +19,7 @@ I also have a working and academic background in computer systems with PhD in Co
 
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/NHSDigitalLogo.jpg" width="40"><br>
-**IGARD Specialist Member and co-Deputy Chair** [NHS Digital](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/independent-group-advising-on-the-release-of-data/) _(Dec 2020 - Present)_ 
+**IGARD Specialist Member and Co-Deputy Chair** [NHS Digital](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/independent-group-advising-on-the-release-of-data/) _(Dec 2020 - Present)_ 
 Act as an independent specialist member considering requests for access/dissemination of NHS data and also advising on other areas of data protection and assurance for release of data by NHS Digital.
 <br><br>
 
