@@ -52,6 +52,14 @@ Professional and Linguistic Assessments Board examiner.
 - Sessional Out of hours GP for Berkshire Healthcare [Westcall](https://www.berkshirehealthcare.nhs.uk/our-services/other-services/westcall/)  
 
 
+**Software engineer and Enterprise Architect** [Defence Science and Technology Laboratory](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory) _(Jan 2020 - 2007)_ <br> 
+
+- Enterprise Architect for complex Electronic Surveillance systems.
+
+- Also Involved with a NATO projects focusing on NEC and information dissemination. 
+- Role included architectural and software solution development. 
+- (Due to the sensitive nature of projects, details of projects cannot be disclosed ) 
+
 
 ## 👩🏼‍🎓 Education
 
