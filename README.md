@@ -49,7 +49,8 @@ Professional and Linguistic Assessments Board examiner.
 **GP Locum and Out Of Hours GP** _(Aug 2017 - Present)_ <br>
 
 - Locum GP services for various practices across, Berkshire, Hampshire and Oxfordshire.
-- Sessional Out of hours GP for Berkshire Healthcare [Westcall](https://www.berkshirehealthcare.nhs.uk/our-services/other-services/westcall/)  
+- Sessional Out of hours GP for Berkshire Healthcare [Westcall](https://www.berkshirehealthcare.nhs.uk/our-services/other-services/westcall/) 
+<br> 
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/gov.uk_Logo.png" width="56"><br>
 
