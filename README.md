@@ -15,6 +15,14 @@ I also have a working and academic background in computer systems with PhD in Co
             
 
 ##  Experience
+**GP Locum and Out Of Hours GP** _(Aug 2017 - Present)_ <br>
+
+- Locum GP services for various practices across, Berkshire, Hampshire and Oxfordshire.
+- Sessional Out of hours GP for Berkshire Healthcare [Westcall](https://www.berkshirehealthcare.nhs.uk/our-services/other-services/westcall/) 
+<br> 
+<br>
+
+
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/NHSDigitalLogo.jpg" width="40"><br>
 **IGARD Specialist Member** [NHS Digital](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/independent-group-advising-on-the-release-of-data/) _(Dec 2020 - Present)_ 
 Act as an independent specialist member considering requests for access/dissemination of NHS data and also advising on other areas of data protection and assurance for release of data by NHS Digital.
@@ -46,12 +54,6 @@ Professional and Linguistic Assessments Board examiner.
 - Occasionally act as invigilator for the exam accross multiple ciruits assisting the chief examiner.
 <br><br>
 
-**GP Locum and Out Of Hours GP** _(Aug 2017 - Present)_ <br>
-
-- Locum GP services for various practices across, Berkshire, Hampshire and Oxfordshire.
-- Sessional Out of hours GP for Berkshire Healthcare [Westcall](https://www.berkshirehealthcare.nhs.uk/our-services/other-services/westcall/) 
-<br> 
-<br>
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/gov.uk_Logo.png" width="56"><br>
 **Software engineer and Enterprise Architect** [Defence Science and Technology Laboratory](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory) _(2020 - 2007)_ <br> 
