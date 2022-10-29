@@ -3,13 +3,13 @@ NHS GP, Clinical Informatics Lead and Clinical Safety Officer <br>
 On [GMC GP Register](https://www.gmc-uk.org/doctors/7278705)  <br>
 [Email](mailto:mik786@outlook.com) / [Website](https://khaninformatics.github.io/ResumeMark/) / [LinkedIn](https://www.linkedin.com/in/imran-khan-6342bb167/) / [GitHub](https://github.com/KhanInformatics/) 
 
-I am General Practitioner with a demonstrated history of working in the health care industry. Skilled in clinical Informatics, systems engineering, primary care healthcare Information Technology (HIT) and clinical safety. 
+I am a General Practitioner with a demonstrated history of working in the health care industry. Skilled in clinical informatics, systems engineering, primary care healthcare information technology (HIT) and clinical safety. 
 <br>
 <br>
-I am qualified clinical safety officer and have a specialist interest in clinical safety and information governance.  I have experience of both the DCB0129, DCB0160 and other clinical safety and risk management processes. I am currently a clinical safety officer within the Berkshire, Oxfordshire and Buckinghamshire ICB.
+I am a qualified clinical safety officer and have a specialist interest in clinical safety and information governance.  I have experience of both the DCB0129, DCB0160 and other clinical safety and risk management processes. I am currently a clinical safety officer within the Berkshire, Oxfordshire and Buckinghamshire ICB.
 <br>
 <br>
-I also have a working and academic background in computer systems with PhD in Computer Science.  
+I also have a working and academic background in computer systems with a PhD in Computer Science.  
 <br>
 
             
@@ -25,7 +25,7 @@ Act as an independent specialist member considering requests for access/dissemin
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/BOBLOGO.png" width="140"><br>
 **Clinical Digital Place Lead** [BOB ICS](https://www.bucksoxonberksw.icb.nhs.uk/) _(March 2022 - Present)_ 
-Provide clinical safety, oversight and advice to Berkshire west and wider ICB regarding GPIT issues in primary care.
+Provide clinical safety, oversight and advice to Berkshire West and the wider ICB regarding GPIT issues in primary care.
 - Support the development of clinical safety assurance for digital projects introduced across the place and in alignment with the system.
 - Provide clinical advice to new projects and adoption of digital solutions in primary care across the place and the system.
 - Look at budgets and effective use of GPIT funding.
@@ -33,11 +33,11 @@ Provide clinical safety, oversight and advice to Berkshire west and wider ICB re
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/logo-rcgp.png" width="40"><br>
 **Health Informatics Group Deputy Chair and Joint GPIT Committee Deputy chair** [RCGP](https://www.rcgp.org.uk/) _(Jan 2022 - Present)_ <br>
-As deputy Chair of the Health informatics group I represent the RCGP on various aspects of Health Informatics related to:
+As deputy Chair of the Health Informatics group I represent the RCGP on various aspects of Health Informatics related to:
 - Providing a co-ordinated joint approach to general practice stakeholder representation in information management and communications technology projects within the NHS (jointly with the BMA).
-- To consider the development of information management and technology in NHS general practice across the UK
-- To consider training and change management issues in the provision of quality information within primary care and its interface with the rest of the health service
-- To offer support and guidance to general practice on IM&T , Information Gevernance, data proteciion and general clinical informatics 
+- Considering the development of information management and technology in NHS general practice across the UK
+- Considering training and change management issues in the provision of quality information within primary care and its interface with the rest of the health service
+- Offering support and guidance to general practice on IM&T, information governance, data proteciion and general clinical informatics 
 <br><br>
 
 
@@ -46,7 +46,7 @@ As deputy Chair of the Health informatics group I represent the RCGP on various 
 **GMC Associate** [](https://www.gmc-uk.org/) _(Dec 2019 - Present)_ <br>
 Professional and Linguistic Assessments Board examiner.
 - Responsible for examining a station on the PLAB exam circuit.
-- Occasionally act as invigilator for the exam accross multiple ciruits assisting the chief examiner.
+- Occasionally act as invigilator for the exam accross multiple circuits assisting the chief examiner.
 <br><br>
 
 **GP Locum and Out Of Hours GP** _(Aug 2017 - Present)_ <br>
@@ -58,12 +58,12 @@ Professional and Linguistic Assessments Board examiner.
 
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/gov.uk_Logo.png" width="56"><br>
-**Software engineer and Enterprise Architect** [Defence Science and Technology Laboratory](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory) _(2020 - 2007)_ <br> 
+**Software Engineer and Enterprise Architect** [Defence Science and Technology Laboratory](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory) _(2002 - 2007)_ <br> 
 
 - Enterprise Architect for complex Electronic Surveillance systems.
-- Also Involved with a NATO projects focusing on NEC and information dissemination. 
+- Also involved with NATO projects focusing on NEC and information dissemination. 
 - Role included architectural and software solution development. 
-- (Due to the sensitive nature of projects, details of projects cannot be disclosed ) 
+- (Due to the sensitive nature of projects, details cannot be disclosed) 
 
 
 ## 👩🏼‍🎓 Education
