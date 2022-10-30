@@ -91,5 +91,5 @@ EMIS Web, Vision.
 **Multiple programming languages** (C#, C++, T-SQL, PL/SQL, VB. Latex, python, html), databases including Microsoft SQL server.
 
 
-## 👩🏼‍🎓 References
+## ✏️ References
 **Available on request**
