@@ -12,19 +12,15 @@ I am a qualified clinical safety officer and have a specialist interest in clini
 I also have a working and academic background in computer systems with a PhD in Computer Science.  
 <br>
 
-            
-
 ##  Experience
 
-
-
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/NHSDigitalLogo.jpg" width="40"><br>
-**IGARD Specialist Member and Co-Deputy Chair** [NHS Digital](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/independent-group-advising-on-the-release-of-data/) _(Dec 2020 - Present)_ 
+**IGARD Specialist Member and Co-Deputy Chair** [NHS Digital](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/independent-group-advising-on-the-release-of-data/) _(Dec 2020 - Present)_ <br>
 Act as an independent specialist member considering requests for access/dissemination of NHS data and also advising on other areas of data protection and assurance for release of data by NHS Digital.
 <br><br>
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/BOBLOGO.png" width="140"><br>
-**Clinical Digital Place Lead** [BOB ICS](https://www.bucksoxonberksw.icb.nhs.uk/) _(March 2022 - Present)_ 
+**Clinical Digital Place Lead** [BOB ICS](https://www.bucksoxonberksw.icb.nhs.uk/) _(March 2022 - Present)_ <br>
 Provide clinical safety, oversight and advice to Berkshire West and the wider ICB regarding GPIT issues in primary care.
 
 - Support the development of clinical safety assurance for digital projects introduced across the place and in alignment with the system.
@@ -72,12 +68,12 @@ Professional and Linguistic Assessments Board examiner.
 ## 👩🏼‍🎓 Education
 
 **MBBS** Medicine<br>
-[King’s College London Guy’s King’s and St Thomas’ School of Medicine](https://www.cardiff.ac.uk/computer-science) - London  _(2012)_
+[King’s College London](https://www.cardiff.ac.uk/computer-science) - Guy’s King’s and St Thomas’ School of Medicine London  _(2012)_
 
 
 
 
-**PhD** PhD Computer Science  - 
+**PhD** Computer Science  - 
 <br>
 Netted Radar Modelling, Design and Optimisation <br>
 [Cardiff University ](https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs) - Department of Computer Science , Cardiff _(2004)_. In association with DSTL (formerly Defence Evaluation and Research Agency) Further details available on request 
