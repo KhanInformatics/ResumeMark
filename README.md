@@ -26,6 +26,7 @@ Act as an independent specialist member considering requests for access/dissemin
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/BOBLOGO.png" width="140"><br>
 **Clinical Digital Place Lead** [BOB ICS](https://www.bucksoxonberksw.icb.nhs.uk/) _(March 2022 - Present)_ 
 Provide clinical safety, oversight and advice to Berkshire West and the wider ICB regarding GPIT issues in primary care.
+
 - Support the development of clinical safety assurance for digital projects introduced across the place and in alignment with the system.
 - Provide clinical advice to new projects and adoption of digital solutions in primary care across the place and the system.
 - Look at budgets and effective use of GPIT funding.
@@ -34,6 +35,7 @@ Provide clinical safety, oversight and advice to Berkshire West and the wider IC
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/logo-rcgp.png" width="40"><br>
 **Health Informatics Group Deputy Chair and Joint GPIT Committee Deputy chair** [RCGP](https://www.rcgp.org.uk/) _(Jan 2022 - Present)_ <br>
 As deputy Chair of the Health Informatics group I represent the RCGP on various aspects of Health Informatics related to:
+
 - Providing a co-ordinated joint approach to general practice stakeholder representation in information management and communications technology projects within the NHS (jointly with the BMA).
 - Considering the development of information management and technology in NHS general practice across the UK
 - Considering training and change management issues in the provision of quality information within primary care and its interface with the rest of the health service
@@ -45,6 +47,7 @@ As deputy Chair of the Health Informatics group I represent the RCGP on various 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/General_Medical_Council_logo.svg" width="56"><br>
 **GMC Associate** [](https://www.gmc-uk.org/) _(Dec 2019 - Present)_ <br>
 Professional and Linguistic Assessments Board examiner.
+
 - Responsible for examining a station on the PLAB exam circuit.
 - Occasionally act as invigilator for the exam accross multiple circuits assisting the chief examiner.
 <br><br>
