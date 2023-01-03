@@ -22,12 +22,14 @@ I also have a working and academic background in computer systems with a PhD in 
 
 
 **Clinical Safety Officer and Clinical Safety Consultant**  _(April 2020 - Present)_ <br>
-Provide  Clinical safety officer advisory services. Please contact directly to see discuss requirements
+Provide  Clinical safety officer advisory services. 
 These include:
 - Clinical safety officer advisory services for aspects of clinical safety including assurance against obligations under DCB0129/DCB0160, MHRA Digital Medical Device standards and NHS Digital Clinical Safety standards.
 - Provide clinical advice to new projects and adoption of digital solutions in primary care.
-- Provided services including as named clinical safety officer.
-<br><br>
+- Provide services including as named clinical safety officer.
+<br>
+
+Please contact directly to discuss requirements<br>
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/NHSDigitalLogo.jpg" width="40"><br>
 **IGARD Specialist Member and Co-Deputy Chair** [NHS Digital](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/independent-group-advising-on-the-release-of-data/) _(Dec 2020 - Present)_ <br>
