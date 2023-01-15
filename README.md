@@ -24,7 +24,7 @@ I also have a working and academic background in computer systems with a PhD in 
 **Clinical Safety Officer and Clinical Safety Consultant**  _(April 2020 - Present)_ <br>
 Provide  Clinical safety officer advisory services. 
 These include:
-- Clinical safety officer advisory services for aspects of clinical safety including assurance against obligations under DCB0129/DCB0160, MHRA Digital Medical Device standards and NHS Digital Clinical Safety standards.
+- Clinical safety officer advisory services for aspects of clinical safety including assurance against obligations under DCB0129/DCB0160 and NHS Digital Clinical Safety standards.
 - Provide clinical advice to new projects and adoption of digital solutions in primary care.
 - Provide services including as named clinical safety officer.
 <br>
