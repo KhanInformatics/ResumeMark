@@ -6,7 +6,7 @@ On [GMC GP Register](https://www.gmc-uk.org/doctors/7278705)  <br>
 I am a General Practitioner with a demonstrated history of working in the health care industry. Skilled in clinical informatics, systems engineering, primary care healthcare information technology (HIT) and clinical safety. 
 <br>
 <br>
-I am a qualified clinical safety officer and have a specialist interest in clinical safety and information governance.  I have experience of both the DCB0129, DCB0160 and other clinical safety and risk management processes. I am currently a clinical safety officer within the Berkshire, Oxfordshire and Buckinghamshire ICB.
+I am a qualified clinical safety officer and have a specialist interest in clinical safety and information governance.  I have experience of both the DCB0129, DCB0160 and other clinical safety and risk management processes. I am currently a Clinical Safety Consultant and clinical safety officer within the Berkshire, Oxfordshire and Buckinghamshire ICB.
 <br>
 <br>
 I also have a working and academic background in computer systems with a PhD in Computer Science.  
@@ -29,10 +29,10 @@ These include:
 - Provide services including as named clinical safety officer.
 <br>
 
-Please contact directly to discuss requirements<br>
+Please contact me directly to discuss requirements<br>
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/NHSDigitalLogo.jpg" width="40"><br>
-**IGARD Specialist Member and Co-Deputy Chair** [NHS Digital](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/independent-group-advising-on-the-release-of-data/) _(Dec 2020 - Present)_ <br>
+**Advisory Group for Data Specialist Member and Co-Deputy Chair** [NHS England](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/independent-group-advising-on-the-release-of-data/) _(Dec 2020 - Present)_ <br>
 Act as an independent specialist member considering requests for access/dissemination of NHS data and also advising on other areas of data protection and assurance for release of data by NHS Digital.
 <br><br>
 
