@@ -1,7 +1,7 @@
 ## Dr Imran Khan
 NHS GP, Clinical Informatics Lead and Clinical Safety Officer <br>
 On [GMC GP Register](https://www.gmc-uk.org/doctors/7278705)  <br>
-[Email](mailto:mik786@outlook.com) / [Website](https://khaninformatics.github.io/ResumeMark/) / [LinkedIn](https://www.linkedin.com/in/imran-khan-6342bb167/) / [GitHub](https://github.com/KhanInformatics/) 
+[Email](mailto:imran@khanclinicalinformatics.net) / [Website](https://khaninformatics.github.io/ResumeMark/) / [LinkedIn](https://www.linkedin.com/in/imran-khan-6342bb167/) / [GitHub](https://github.com/KhanInformatics/) 
 
 I am a General Practitioner with a demonstrated history of working in the health care industry. Skilled in clinical informatics, systems engineering, primary care healthcare information technology (HIT) and clinical safety. 
 <br>
