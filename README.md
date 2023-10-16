@@ -37,8 +37,8 @@ Act as an independent specialist member considering requests for access/dissemin
 <br><br>
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/BOBLOGO.png" width="140"><br>
-**Clinical Digital Place Lead** [BOB ICS](https://www.bucksoxonberksw.icb.nhs.uk/) _(March 2022 - Present)_ <br>
-Provide clinical safety, oversight and advice to Berkshire West and the wider ICB regarding GPIT issues in primary care.
+**Clinical Digital Lead** [BOB ICS](https://www.bucksoxonberksw.icb.nhs.uk/) _(March 2022 - Present)_ <br>
+Provide clinical safety, oversight and advice to wider ICB regarding GPIT issues in primary care.
 
 - Support the development of clinical safety assurance for digital projects introduced across the place and in alignment with the system.
 - Provide clinical advice to new projects and adoption of digital solutions in primary care across the place and the system.
@@ -64,7 +64,6 @@ Professional and Linguistic Assessments Board examiner.
 - Responsible for examining a station on the PLAB exam circuit.
 - Occasionally act as invigilator for the exam accross multiple circuits assisting the chief examiner.
 <br><br>
-
 
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/gov.uk_Logo.png" width="56"><br>
