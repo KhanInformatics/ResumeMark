@@ -37,7 +37,7 @@ Act as an independent specialist member considering requests for access/dissemin
 <br><br>
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/BOBLOGO.png" width="140"><br>
-**Clinical Digital Lead** [BOB ICS](https://www.bucksoxonberksw.icb.nhs.uk/) _(March 2022 - Present)_ <br>
+**Clinical Digital Lead** [BOB ICB](https://www.bucksoxonberksw.icb.nhs.uk/) _(March 2022 - Present)_ <br>
 Provide clinical safety, oversight and advice to wider ICB regarding GPIT issues in primary care.
 
 - Support the development of clinical safety assurance for digital projects introduced across the place and in alignment with the system.
