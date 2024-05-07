@@ -26,7 +26,7 @@ Provide  Clinical safety officer advisory services.
 These include:
 - Clinical safety officer advisory services for aspects of clinical safety including assurance against obligations under DCB0129/DCB0160 and NHS Digital Clinical Safety standards.
 - Provide clinical advice to new projects and adoption of digital solutions in primary care.
-- Provide services including as named clinical safety officer.
+- Provide services including as named clinical safety officer. My primary clinical safety officer role is as CSO for Medicus (https://www.medicus.health/)
 <br>
 
 Please contact me directly to discuss requirements<br>
