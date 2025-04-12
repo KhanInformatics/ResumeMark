@@ -22,11 +22,18 @@ I also have a working and academic background in computer systems with a PhD in 
 
 
 **Clinical Safety Officer and Clinical Safety Consultant**  _(April 2020 - Present)_ <br>
-Provide  Clinical safety officer advisory services. 
+Provide Clinical safety officer advisory services. 
 These include:
 - Clinical safety officer advisory services for aspects of clinical safety including assurance against obligations under DCB0129/DCB0160 and NHS Digital Clinical Safety standards.
 - Provide clinical advice to new projects and adoption of digital solutions in primary care.
-- Provide services including as named clinical safety officer. My primary clinical safety officer role is as CSO for Medicus (https://www.medicus.health/)
+- Provide services including as named clinical safety officer. (My primary clinical safety officer role is as CSO for Medicus (https://www.medicus.health/))
+
+I am currentlty the named Clinical Safety Officer for:
+- [EBO.ai](https://www.ebo.ai/)
+- [PrimarycareIT](https://www.primarycareit.co.uk/)
+- [Wellola](https://www.wellola.com/)
+- [Medicus Health](https://www.medicus.health/)
+- [X-on](https://www.x-on.co.uk/)
 <br>
 
 Please contact me directly to discuss requirements<br>
