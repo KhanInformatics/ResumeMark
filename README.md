@@ -31,13 +31,12 @@ These include:
 
 Please contact me directly to discuss requirements<br>
 
-<img src="https://khaninformatics.github.io/ResumeMark/docs/assets/NSSLogo.png" width="140"><br>
-Primary Care Informatician National Services Scotland (NSS) (April 2024 - Present) <br>
+<img src="https://khaninformatics.github.io/ResumeMark/docs/assets/NSSLogo.jpg" width="50"><br>
+**Primary Care Informatician National Services Scotland (NSS)** _(April 2024 - Present)_ <br>
 Part of the Primary Care Data and Intelligence platform team and primary care informatics team.
 
 Contribute to initiatives that leverage healthcare data to improve primary care services across Scotland
-Transform clinical data into actionable insights that support healthcare delivery and policy development
-Work collaboratively with healthcare professionals to enhance data-driven decision making in primary care
+Transform clinical data into actionable insights that support healthcare delivery and policy development.
 <br><br>
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/NHSEnglandLogo.png" width="40"><br>
