@@ -43,11 +43,6 @@ Please contact me directly to discuss requirements<br>
 I am part of the Primary Care Data and Intelligence platform team and primary care informatics team. As part of these teams I contribute to initiatives that leverage healthcare data to improve primary care services across Scotland.  
 <br><br>
 
-<img src="https://khaninformatics.github.io/ResumeMark/docs/assets/NHSEnglandLogo.png" width="40"><br>
-**Advisory Group for Data Specialist Member and Co-Deputy Chair** [NHS England](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/independent-group-advising-on-the-release-of-data/) _(Dec 2020 - April 2024)_ <br>
-Act as an independent specialist member considering requests for access/dissemination of NHS data and also advising on other areas of data protection and assurance for release of data by NHS Digital.
-<br><br>
-
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/BOBLOGO.png" width="140"><br>
 **Clinical Digital Lead** [BOB ICB](https://www.bucksoxonberksw.icb.nhs.uk/) _(March 2022 - Present)_ <br>
 Provide clinical safety, oversight and advice to wider ICB regarding GPIT issues in primary care.
@@ -67,10 +62,14 @@ As deputy Chair of the Health Informatics group I represent the RCGP on various 
 - Offering support and guidance to general practice on IM&T, information governance, data proteciion and general clinical informatics 
 <br><br>
 
+<img src="https://khaninformatics.github.io/ResumeMark/docs/assets/NHSEnglandLogo.png" width="40"><br>
+**Advisory Group for Data Specialist Member and Co-Deputy Chair** [NHS England](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/independent-group-advising-on-the-release-of-data/) _(Dec 2020 - April 2024)_ <br>
+Act as an independent specialist member considering requests for access/dissemination of NHS data and also advising on other areas of data protection and assurance for release of data by NHS Digital.
+<br><br>
 
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/General_Medical_Council_logo.svg" width="56"><br>
-**GMC Associate** [](https://www.gmc-uk.org/) _(Dec 2019 - Present)_ <br>
+**GMC Associate** [](https://www.gmc-uk.org/) _(Dec 2019 - April 2024)_ <br>
 Professional and Linguistic Assessments Board examiner.
 
 - Responsible for examining a station on the PLAB exam circuit.
@@ -87,7 +86,7 @@ Professional and Linguistic Assessments Board examiner.
 - (Due to the sensitive nature of projects, details cannot be disclosed) 
 
 
-## 👩🏼‍🎓 Education
+## Education
 
 **MBBS** Medicine<br>
 [King’s College London](https://www.cardiff.ac.uk/computer-science) - Guy’s King’s and St Thomas’ School of Medicine London  _(2012)_
@@ -103,7 +102,7 @@ Netted Radar Modelling, Design and Optimisation <br>
 **BEng** Computer Systems Engineering - 1st Class (Hons)<br>
 [Cardiff University ](https://www.cardiff.ac.uk/computer-science) - Computer Science and Dept Electronic Engineering, Cardiff UK _(2000)_
 
-## 📌Technical skills
+##Technical skills
 
 **Medical Information Systems**
 EMIS Web, Vision.
