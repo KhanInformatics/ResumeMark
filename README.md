@@ -31,6 +31,15 @@ These include:
 
 Please contact me directly to discuss requirements<br>
 
+<img src="https://khaninformatics.github.io/ResumeMark/docs/assets/NSSLogo.png" width="140"><br>
+Primary Care Informatician National Services Scotland (NSS) (April 2024 - Present) <br>
+Part of the Primary Care Data and Intelligence platform team and primary care informatics team.
+
+Contribute to initiatives that leverage healthcare data to improve primary care services across Scotland
+Transform clinical data into actionable insights that support healthcare delivery and policy development
+Work collaboratively with healthcare professionals to enhance data-driven decision making in primary care
+<br><br>
+
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/NHSEnglandLogo.png" width="40"><br>
 **Advisory Group for Data Specialist Member and Co-Deputy Chair** [NHS England](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/independent-group-advising-on-the-release-of-data/) _(Dec 2020 - April 2024)_ <br>
 Act as an independent specialist member considering requests for access/dissemination of NHS data and also advising on other areas of data protection and assurance for release of data by NHS Digital.
