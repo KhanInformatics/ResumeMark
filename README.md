@@ -32,7 +32,7 @@ These include:
 Please contact me directly to discuss requirements<br>
 
 <img src="https://khaninformatics.github.io/ResumeMark/docs/assets/NHSEnglandLogo.png" width="40"><br>
-**Advisory Group for Data Specialist Member and Co-Deputy Chair** [NHS England](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/independent-group-advising-on-the-release-of-data/) _(Dec 2020 - Present)_ <br>
+**Advisory Group for Data Specialist Member and Co-Deputy Chair** [NHS England](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/independent-group-advising-on-the-release-of-data/) _(Dec 2020 - April 2024)_ <br>
 Act as an independent specialist member considering requests for access/dissemination of NHS data and also advising on other areas of data protection and assurance for release of data by NHS Digital.
 <br><br>
 
