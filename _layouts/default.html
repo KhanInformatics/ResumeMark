@@ -4,22 +4,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-  
+
 /* Reset basic elements */
 body, html {
   margin: 0 !important;
   padding: 0 !important;
   width: 100% !important;
   height: 100% !important;
+  max-width: 100% !important;
+  overflow-x: hidden !important;
 }
 
-/* Make the wrapper use full width and set as positioning context */
+/* Also ensure the wrapper extends fully */
 .wrapper {
   max-width: 100% !important;
   margin: 0 !important;
   padding: 0 !important;
   position: relative !important;
   min-height: 100% !important;
+  overflow-x: hidden !important; /* Prevent horizontal scrolling */
 }
 
 /* Position header absolutely on the left side */
