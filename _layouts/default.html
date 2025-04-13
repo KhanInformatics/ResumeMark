@@ -4,51 +4,63 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
+  
+/* Reset basic elements */
 body, html {
   margin: 0 !important;
   padding: 0 !important;
   width: 100% !important;
+  height: 100% !important;
 }
 
-/* Make the wrapper use full width */
+/* Make the wrapper use full width and set as positioning context */
 .wrapper {
   max-width: 100% !important;
   margin: 0 !important;
-  padding: 10px !important;
-  display: flex !important; /* Use flexbox for layout */
-  flex-wrap: nowrap !important; /* Prevent wrapping */
+  padding: 0 !important;
+  position: relative !important;
+  min-height: 100% !important;
 }
 
-/* Set fixed widths for sidebar and content areas */
+/* Position header absolutely on the left side */
 header {
-  width: 20% !important;
-  padding-right: 20px !important;
-  flex-shrink: 0 !important; /* Prevent shrinking */
+  position: absolute !important;
+  left: 0 !important;
+  top: 0 !important;
+  width: 250px !important; /* Fixed width in pixels */
+  height: 100% !important;
+  padding: 10px !important;
   box-sizing: border-box !important;
+  overflow-y: auto !important; /* Allow scrolling if content is tall */
 }
 
+/* Position section with left margin to avoid header */
 section {
-  width: 80% !important;
-  flex-grow: 1 !important; /* Allow growing */
+  margin-left: 270px !important; /* Header width + some spacing */
+  padding: 20px !important;
   box-sizing: border-box !important;
-  padding: 0 20px !important;
+  min-height: 100% !important;
+  width: auto !important; /* Let it fill the remaining space */
 }
 
-/* Clear the footer */
+/* Position footer at bottom */
 footer {
   clear: both !important;
-  width: 100% !important;
+  margin-left: 270px !important;
+  padding: 10px !important;
 }
 
-/* For mobile responsiveness */
-@media screen and (max-width: 768px) {
-  .wrapper {
-    flex-direction: column !important;
+/* For screens smaller than 800px */
+@media screen and (max-width: 800px) {
+  header {
+    position: relative !important;
+    width: 100% !important;
+    height: auto !important;
   }
   
-  header, section {
+  section, footer {
+    margin-left: 0 !important;
     width: 100% !important;
-    padding: 10px !important;
   }
 }
 
