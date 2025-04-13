@@ -6,21 +6,26 @@
 <style>
 
 .wrapper {
-  max-width: 95% !important ; /* Increase from current setting to 95% or even 100% */
-  margin: 0 auto !important; /* Keep auto margins but with the wider max-width, the margins will be smaller */
-  padding: 10px !important; /* You can also adjust padding if needed */
+  max-width: 100% !important; /* Use full width */
+  margin: 0 !important; /* Remove margins completely */
+  padding: 5px !important; /* Minimal padding */
 }
 
+/* Override any other potential layout issues */
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+}
 
-/* You might also want to adjust the header and content layout */
+/* Force the main content areas to be wider */
 header {
-  width: 25%; /* Make the sidebar narrower */
-  float: left;
+  width: 20% !important; /* Make header narrower */
 }
 
 section {
-  width: 70%; /* Make the content area wider */
-  float: right;
+  width: 75% !important; /* Make content section wider */
+  margin-left: 22% !important; /* Adjust the left margin to match header width */
 }
 
 .fa {
