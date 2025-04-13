@@ -18,14 +18,28 @@ body {
   width: 100% !important;
 }
 
-/* Force the main content areas to be wider */
+/* Fix the layout to prevent overlap */
 header {
   width: 20% !important; /* Make header narrower */
+  float: left !important;
+  clear: left !important;
+  padding-right: 2% !important;
+  box-sizing: border-box !important;
+  overflow: hidden !important;
 }
 
 section {
   width: 75% !important; /* Make content section wider */
-  margin-left: 22% !important; /* Adjust the left margin to match header width */
+  float: right !important;
+  clear: right !important;
+  margin-left: 0 !important; /* Remove the left margin */
+  box-sizing: border-box !important;
+}
+
+/* Ensure footer clears both floats */
+footer {
+  clear: both !important;
+  width: 100% !important;
 }
 
 .fa {
