@@ -39,11 +39,12 @@ header {
 
 /* Position section with left margin to avoid header */
 section {
-  margin-left: 270px !important; /* Header width + some spacing */
+  margin-left: 270px !important; /* Keep this as is for left spacing */
+  margin-right: 10px !important; /* Reduce right margin to just 10px */
   padding: 20px !important;
   box-sizing: border-box !important;
   min-height: 100% !important;
-  width: auto !important; /* Let it fill the remaining space */
+  width: calc(100% - 280px) !important; /* Calculate width based on viewport minus header width and margins */
 }
 
 /* Position footer at bottom */
