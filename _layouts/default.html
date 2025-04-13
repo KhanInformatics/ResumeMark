@@ -4,42 +4,52 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-
-.wrapper {
-  max-width: 100% !important; /* Use full width */
-  margin: 0 !important; /* Remove margins completely */
-  padding: 5px !important; /* Minimal padding */
-}
-
-/* Override any other potential layout issues */
-body {
+body, html {
   margin: 0 !important;
   padding: 0 !important;
   width: 100% !important;
 }
 
-/* Fix the layout to prevent overlap */
+/* Make the wrapper use full width */
+.wrapper {
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 10px !important;
+  display: flex !important; /* Use flexbox for layout */
+  flex-wrap: nowrap !important; /* Prevent wrapping */
+}
+
+/* Set fixed widths for sidebar and content areas */
 header {
-  width: 20% !important; /* Make header narrower */
-  float: left !important;
-  clear: left !important;
-  padding-right: 2% !important;
+  width: 20% !important;
+  padding-right: 20px !important;
+  flex-shrink: 0 !important; /* Prevent shrinking */
   box-sizing: border-box !important;
-  overflow: hidden !important;
 }
 
 section {
-  width: 75% !important; /* Make content section wider */
-  float: right !important;
-  clear: right !important;
-  margin-left: 0 !important; /* Remove the left margin */
+  width: 80% !important;
+  flex-grow: 1 !important; /* Allow growing */
   box-sizing: border-box !important;
+  padding: 0 20px !important;
 }
 
-/* Ensure footer clears both floats */
+/* Clear the footer */
 footer {
   clear: both !important;
   width: 100% !important;
+}
+
+/* For mobile responsiveness */
+@media screen and (max-width: 768px) {
+  .wrapper {
+    flex-direction: column !important;
+  }
+  
+  header, section {
+    width: 100% !important;
+    padding: 10px !important;
+  }
 }
 
 .fa {
